@@ -17,6 +17,7 @@ API Rest usada para criptografar dados de usuários
 * NestJS
 * Node.js  
 * SQLite3
+* Swagger
 
 # como utilizar
 
